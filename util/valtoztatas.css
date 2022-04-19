@@ -1,0 +1,29 @@
+body{background-image: url('money.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;}
+
+    .card_valt	{
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+            margin-bottom: 20px;
+            font-family: 'Times New Roman', Times, serif;
+            border-color: #059507;
+    align-self: center;
+            }
+    
+    .body_valt{
+                color: #059507;
+                text-align: justify;
+    }
+
+.btn_valt{background-color: #059507;
+        border-color: #059507;
+        margin-left: 40px;
+       
+        
+        }
+    
+.btn_valt:hover{background-color: #059507;
+                  transition: 0,5s;}

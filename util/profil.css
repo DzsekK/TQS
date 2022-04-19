@@ -1,0 +1,33 @@
+body{background-image: url('money.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;}
+
+
+    
+    .card_profil	{
+    margin-top: 100px;
+            margin-bottom: 20px;
+            font-family: 'Times New Roman', Times, serif;
+            border-color: #059507;
+            }
+    .head_prof{
+                background-color: #059507;
+                color: white;
+    }
+    .body_prof{
+                color: #059507;
+                text-align: justify;
+    }
+
+
+
+button{background-color: #059507;
+        border-color: #059507;
+       
+        
+        
+        }
+    
+button:hover{background-color: #059507;
+                    transition: 0,5s;}

@@ -1,0 +1,71 @@
+body{background-image: url('money.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;}
+
+    .mt-3_regisztracio{font-family: 'Times New Roman', Times, serif;
+       font-size: 30px;
+        font-weight: 600;
+        text-shadow:black;
+        margin-bottom: 10px;
+        color:#059507;
+        text-align: center;}
+
+    .form_regisztracio{font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: medium;
+        color: #059507;
+        margin-left:100px;
+        margin-bottom: 5px;
+        
+        }
+    .btn-regisztracio{background-color: #059507;
+        border-color: #059507;
+        margin-top: 20px;
+        margin-left: 300px;
+        
+        }
+    
+        .btn-regisztracio:hover{background-color: #059507;
+                    transition: 0,5s;}
+
+    .card_regisztracio{width: 700px;
+        height: 500px;
+        margin-top: 80px;
+        margin-left:220px;
+        margin-right: 350px;
+        margin-bottom: 150px;
+        align-content: center;
+        
+        border-radius: 10%;
+        border-color:#059507;
+        ;}
+    
+
+    .formf {
+       
+        padding-left: 10px;
+        margin: 8px 0;
+        display:inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        }
+
+    .formp {
+        
+        padding-left: 10px;
+        margin: 8px 0;
+        display:inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        }
+    .forme {
+        
+        padding-left: 10px;
+        margin: 8px 0;
+        display:inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        }

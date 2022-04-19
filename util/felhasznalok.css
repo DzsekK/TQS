@@ -1,0 +1,20 @@
+body{background-image: url('money.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;}
+.card_felhasznalok {margin-top: 20px;
+          font-family: 'Times New Roman', Times, serif;
+        font-weight: 200;
+        background-color: white;}
+.table_felhasznalok{background-color:#059507;
+          color: white;
+          border-color: white;}
+.head_felh{color: #059507;
+          margin-bottom: 20px;
+          background-color: #059507;
+          color: white;}
+
+.link_felh{font-family: 'Times New Roman', Times, serif;
+color: #059507;
+font-size: xx-large;}
+.link_felh:hover{color:lightgreen;}

@@ -1,0 +1,31 @@
+body{background-image: url('money.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;}
+
+
+    .jumbo_jatek{margin-top: 20px;
+                font-family: 'Times New Roman', Times, serif;
+                font-weight: 600;
+            background-color: #059507;
+            color: white;
+            text-align: center;
+        border-color: white;}
+
+    .card_jatek	{
+            margin-bottom: 20px;
+            font-family: 'Times New Roman', Times, serif;
+            border-color: #059507;
+            }
+    .header_jatek{
+      font-family: 'Times New Roman', Times, serif;
+      font-size: larger;
+      font-weight: 300;
+                background-color: #059507;
+                color: white;
+    }
+    .body_jatek{
+                color: #059507;
+                text-align: justify;
+    }
+

@@ -1,0 +1,28 @@
+body{background-image: url('money.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;}
+
+
+.jumbotron_kezdolap{margin-top: 20px;
+                font-family: 'Times New Roman', Times, serif;
+                font-weight: 600;
+            background-color: #059507;
+            color: white;
+            text-align: center;
+        border-color: white;}
+
+.card_kezdolap	{
+            margin-bottom: 10px;
+            font-family: 'Times New Roman', Times, serif;
+            border-color: #059507;
+            }
+.header_kezdolap{
+                background-color: #059507;
+                color: white;
+    }
+.body_kezdolap{
+                color: #059507;
+                text-align: justify;
+    }
+
